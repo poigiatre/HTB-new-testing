@@ -1,0 +1,15 @@
+E:\Personal\Hack\HackWorkspace\Visual\bin\Debug\net6.0\Visual.exe
+E:\Personal\Hack\HackWorkspace\Visual\bin\Debug\net6.0\Visual.deps.json
+E:\Personal\Hack\HackWorkspace\Visual\bin\Debug\net6.0\Visual.runtimeconfig.json
+E:\Personal\Hack\HackWorkspace\Visual\bin\Debug\net6.0\Visual.dll
+E:\Personal\Hack\HackWorkspace\Visual\bin\Debug\net6.0\Visual.pdb
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.csproj.AssemblyReference.cache
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.AssemblyInfoInputs.cache
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.AssemblyInfo.cs
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.csproj.CoreCompileInputs.cache
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.dll
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\refint\Visual.dll
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.pdb
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\Visual.genruntimeconfig.cache
+E:\Personal\Hack\HackWorkspace\Visual\obj\Debug\net6.0\ref\Visual.dll
